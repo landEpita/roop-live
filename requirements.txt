@@ -1,0 +1,8 @@
+pyvirtualcam
+numpy
+insightface
+onnx==1.14.0
+onnxruntime==1.15.0
+onnxruntime-gpu>=1.6
+opencv-contrib-python
+pandas
